@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f314f1f6-f47c-4184-a942-05575d8007c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaiTap/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThucHanh/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThucHanh/MylistTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss10-DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ss8-Refactoring/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ss8-Refactoring/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ss8-Refactoring/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ss8-Refactoring/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ss8-Refactoring/src/TennisGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ss8-Refactoring/src/TennisGameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ss8-Refactoring/ss8-Refactoring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ss7_Abstrac_Class_Interface/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ss7_Abstrac_Class_Interface/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +33,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/CODEGYM/module 2/ss10-DSA&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/CODEGYM/module 2/CaseStudy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="MylistTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThucHanh.MylistTest" />
@@ -93,7 +78,8 @@
       <workItem from="1661340517329" duration="1366000" />
       <workItem from="1661501711766" duration="59000" />
       <workItem from="1661504472385" duration="1598000" />
-      <workItem from="1661512229058" duration="941000" />
+      <workItem from="1661512229058" duration="1521000" />
+      <workItem from="1661664659421" duration="25000" />
     </task>
     <servers />
   </component>
