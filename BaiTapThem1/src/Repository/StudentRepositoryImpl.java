@@ -11,17 +11,17 @@ public class StudentRepositoryImpl implements StudentRepository {
 
     @Override
     public void addStudent() {
-        System.out.println("Enter id: ");
-        String newId = sc.nextLine();
-        System.out.println("Enter name: ");
+        System.out.println("Enter id: \n");
+        int newId = sc.nextInt();
+        System.out.println("Enter name: \n");
         String newName = sc.nextLine();
-        System.out.println("Enter gender: ");
+        System.out.println("Enter gender: \n");
         String newGender = sc.nextLine();
-        System.out.println("Enter day of birth: ");
+        System.out.println("Enter day of birth: \n");
         String newDob = sc.nextLine();
-        System.out.println("Enter class: ");
+        System.out.println("Enter class: \n");
         String newClas = sc.nextLine();
-        System.out.println("Enter score: ");
+        System.out.println("Enter score: \n");
         float newScore = sc.nextFloat();
         Student newStudent = new Student(newId, newName, newGender, newDob, newClas, newScore);
         studentList.add(newStudent);
