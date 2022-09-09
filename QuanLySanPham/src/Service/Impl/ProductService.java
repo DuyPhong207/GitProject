@@ -64,15 +64,9 @@ public class ProductService implements IProductService {
 
     @Override
     public void searchProduct() {
-        System.out.println("Nhập id sản phẩm cần tìm");
+        System.out.println("Nhập tên sản phẩm cần tìm");
         String name = sc.nextLine();
-        Product product = new Product(name);
-        if (checkProduct(product)) {
-            int index = iProductRepository.checkIndexProduct(product);
-            iProductRepository.searchProduct(index);
-        } else {
-            System.out.println("Sản phẩm không tồn tại");
-        }
+        iProductRepository.searchProduct(name);
     }
 
     @Override

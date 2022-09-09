@@ -14,7 +14,7 @@ public interface IProductRepository {
 
     void removeProduct(Product product);
 
-    void searchProduct(int index);
+    void searchProduct(String name);
     boolean checkProduct(Product product);
 
     int checkIndexProduct(Product product);

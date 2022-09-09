@@ -27,8 +27,12 @@ public class ProductRepository implements IProductRepository {
     }
 
     @Override
-    public void searchProduct(int index) {
-        productList.get(index);
+    public void searchProduct(String name) {
+        for (Product product : productList) {
+            if (product.getName().indexOf(name) >= 0) {
+                System.out.println(product);
+            }
+        }
     }
 
     @Override
