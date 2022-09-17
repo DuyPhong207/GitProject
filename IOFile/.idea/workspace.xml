@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f1fd7c9-96a3-4b03-8992-1bd87c34c601" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOFile.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CopyFile/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CopyFile/source.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DocFile/Countries.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DocFile/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DocFile/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThucHanh/TotalNumberInFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThucHanh/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QuanLySanPhamBinaryFile/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QuanLySanPhamBinaryFile/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QuanLySanPhamBinaryFile/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QuanLySanPhamBinaryFile/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QuanLySanPhamBinaryFile/ListProduct.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QuanLySanPhamBinaryFile/QuanLySanPhamBinaryFile.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QuanLySanPhamBinaryFile/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QuanLySanPhamBinaryFile/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThucHanhIOFile/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThucHanhIOFile/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThucHanhIOFile/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThucHanhIOFile/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThucHanhIOFile/ThucHanhIOFile.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThucHanhIOFile/src/List.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThucHanhIOFile/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThucHanhIOFile/src/Product.java" afterDir="false" />
-    </list>
+    <list default="true" id="7f1fd7c9-96a3-4b03-8992-1bd87c34c601" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +103,7 @@
       <workItem from="1663310694783" duration="1572000" />
       <workItem from="1663324996018" duration="31000" />
       <workItem from="1663325161387" duration="756000" />
-      <workItem from="1663403396672" duration="3236000" />
+      <workItem from="1663403396672" duration="3644000" />
     </task>
     <servers />
   </component>
