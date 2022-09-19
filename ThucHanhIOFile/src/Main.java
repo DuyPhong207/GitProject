@@ -18,7 +18,6 @@ public class Main {
             choice = Integer.parseInt(sc.nextLine());
             switch (choice) {
                 case 1:
-//                    List<Product> productListOut = new ArrayList<>();
                     System.out.println("Enter code: ");
                     int code = Integer.parseInt(sc.nextLine());
                     System.out.println("Enter name: ");
@@ -26,7 +25,6 @@ public class Main {
                     System.out.println("Enter price: ");
                     int price = Integer.parseInt(sc.nextLine());
                     Product product = new Product(code, name, price);
-//                    productListOut.add(product);
                     try {
                         oos.writeObject(product);
                         oos.flush();
@@ -34,7 +32,6 @@ public class Main {
                         ex.printStackTrace();
                         oos.close();
                     }
-//                    productListOut.clear();
                     System.out.println("Add complete!");
                     break;
                 case 2:
@@ -42,7 +39,6 @@ public class Main {
                     try {
                         InputStream is = new FileInputStream(file);
                         ObjectInputStream ois = new ObjectInputStream(is);
-//                    List<Product> productListIn = (List<Product>) ois.readObject();
                         Product product1 = null;
                         while (true) {
                             product1 = (Product) ois.readObject();
